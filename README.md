@@ -1,5 +1,5 @@
 <div align="center">
-  <h1><pre>Hi, I'm 𝘛𝘩à𝘯𝘩</pre></h1>
+  <h1><i>Hi, I'm 𝘛𝘩à𝘯𝘩</i></h1>
 </div>
 <p align="center">
   <a href="https://ibb.co/rGsN1w80">
