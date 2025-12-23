@@ -1,7 +1,11 @@
 <div align="center">
   <h1><pre>Hi, I'm 𝘛𝘩à𝘯𝘩</pre></h1>
 </div>
-<a href="https://ibb.co/rGsN1w80"><img src="https://i.ibb.co/vxYRKjyq/img.png" alt="img" border="0"></a>
+<p align="center">
+  <a href="https://ibb.co/rGsN1w80">
+    <img src="https://i.ibb.co/vxYRKjyq/img.png" alt="img" width="550" />
+  </a>
+</p>
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/PCT.MTP) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rubiddi) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@pctpro) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://www.youtube.com/@MeeMaker) 
